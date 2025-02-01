@@ -1,0 +1,22 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  height: 90vh;
+}
+#container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#restartButton{
+  position: fixed;
+  bottom: 18vh;
+  height: 44px;
+  font-size: large;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  width: 100px;
+  color: blueviolet;
+  font-weight: bolder;
+}
