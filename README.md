@@ -1,6 +1,6 @@
 # PACKMAN Game
 
-**Pac-Man powered by JavaScript!** 🎮 Built using HTML, CSS, and JavaScript, this game features smooth movement, ghost AI, and real-time collision detection. Play, dodge ghosts, and collect pellets! 🟡👻💨
+**Pac-Man powered by JavaScript!** 🎮 Built using HTML, CSS, and JavaScript, this game features smooth movement, ghost AI, and real-time collision detection. Play, dodge ghosts, and collect pellets! 🟡👻
 
 ## Features
 
